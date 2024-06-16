@@ -76,3 +76,16 @@ To run the Snake Game, compile and execute the `Main.java` file. Ensure that all
 javac Main.java
 java Main
 ```
+
+### Screenshots
+<div align="center">
+  
+![ss1](https://imgur.com/Rowjenk.png)
+
+
+![ss2](https://imgur.com/rFsaapE.png)
+
+
+![ss3](https://imgur.com/rFHxPID.png)
+
+</div>
